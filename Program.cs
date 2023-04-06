@@ -26,3 +26,5 @@ void PrintArray(string[] array)
 
 arrayResult = SecondArrayWithIF(arrayStart, arrayResult);
 PrintArray(arrayResult);
+
+// Проверка кода осуществлена
